@@ -2,12 +2,12 @@
 Un hola mundo en C.
 
 
-Install and exec.
+## Install and exec.
 
-## 1. git clone
+### 1. git clone https://github.com/Defalt-Markowickz/Hola-Mundo-C.git
 
-## 2. sudo apt install build-essential
+### 2. sudo apt install build-essential
 
-## 3. cd Hola-Mundo-C/
+### 3. cd Hola-Mundo-C/
 
-##4. gcc holamundo.c -o holamundo
+### 4. gcc holamundo.c -o holamundo

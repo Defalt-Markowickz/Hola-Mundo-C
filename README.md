@@ -1,5 +1,5 @@
 # Hola-Mundo-C
-Un hola mundo en C.
+### Un hola mundo en C.
 
 
 ## Install and exec.

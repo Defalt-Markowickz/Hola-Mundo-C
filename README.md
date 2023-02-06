@@ -6,7 +6,7 @@
 
 ### 1. git clone https://github.com/Defalt-Markowickz/Hola-Mundo-C.git
 
-### 2. sudo apt install build-essential
+### 2. sudo apt install build-essential or pacman -S build-essential
 
 ### 3. cd Hola-Mundo-C/
 
